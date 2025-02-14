@@ -3,10 +3,13 @@
 This is a simple memory game built with React.
 
 This project is built by @iamshaunjp
-## Watch this tutorial on Youtube - https://www.youtube.com/playlist?list=PL4cUxeGkcC9iQ7g2eoNXHCJBBBz40S_Lm
+
+
+Watch this tutorial on Youtube -
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9iQ7g2eoNXHCJBBBz40S_Lm
 
 ## Getting Started
-visit this project - 
+### Visit this project - 
    https://memory-game-chitrangimestrys-projects.vercel.app/
 ### Prerequisites
 
