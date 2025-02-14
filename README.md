@@ -2,11 +2,12 @@
 
 This is a simple memory game built with React.
 
-##Visit this Project
-   https://memory-game-chitrangimestrys-projects.vercel.app/
+
+
 
 ## Getting Started
-
+visit this project - 
+   https://memory-game-chitrangimestrys-projects.vercel.app/
 ### Prerequisites
 
 Make sure you have Node.js and npm installed on your machine. You can download them from [Node.js official website](https://nodejs.org/).
